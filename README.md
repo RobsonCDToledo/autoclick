@@ -41,5 +41,10 @@ Certifique-se de ter o Python instalado e as dependências:
 
 ---
 
+## Caso queira versão executavel
+
+--Baixar a pasta AutoClick_portable
+--Acessar Pasta dist e executar arquivo app.exe
+
 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
