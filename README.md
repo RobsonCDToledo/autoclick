@@ -5,6 +5,7 @@ Uma ferramenta simples em **Python** para manter seu computador ativo automatica
 ---
 
 ## 📌 Funcionalidades
+
 - **Interface gráfica** com `Tkinter`.
 - **Execução em segundo plano** usando threads (não trava a interface).
 - **Simulação automática de cliques** com `PyAutoGUI`.
@@ -13,6 +14,7 @@ Uma ferramenta simples em **Python** para manter seu computador ativo automatica
 ---
 
 ## 🚀 Como funciona
+
 1. Clique em **Executar** para iniciar o processo.
 2. O programa irá simular um clique do mouse a cada **5 segundos**.
 3. Clique em **Cancelar** para parar.
@@ -21,24 +23,23 @@ Uma ferramenta simples em **Python** para manter seu computador ativo automatica
 ---
 
 ## 📦 Requisitos
+
 Certifique-se de ter o Python instalado e as dependências:
 
 -- pip install pyautogui
 
 ---
+
 ▶️ Como usar
 
-
-- **Baixe ou clone este repositório:
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-- **Entre na pasta do projeto:
-cd SEU_REPOSITORIO
-- **Execute o script:
-python manter_pc_ativo.py
+- **Baixe ou clone este repositório:**
+  --git clone https://github.com/SEU_USUARIO/autoclick.git
+- **Entre na pasta do projeto:**
+  --cd autoclick
+- **Execute o script:**
+  --python app.py
 
 ---
+
 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
-
-
-
